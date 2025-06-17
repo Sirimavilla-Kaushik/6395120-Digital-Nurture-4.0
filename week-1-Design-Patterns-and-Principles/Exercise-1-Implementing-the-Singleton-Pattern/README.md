@@ -2,7 +2,7 @@
    ##  Objective
   You need to ensure that a logging utility class in your application has only one instance throughout the application lifecycle to ensure consistent logging.
   
-  ## 🧩 How It Works
+  ##  How It Works
 
    The **Singleton Pattern** works by restricting object creation and ensuring that only one instance of the class can ever exist.
 

@@ -9,21 +9,21 @@
              └── SingletonTest.java 
     
    ##  How to Compile and Run
-  javac singleton/*.java
-  java singleton.SingletonTest
+    javac singleton/*.java
+    java singleton.SingletonTest
 
   ## When to Use Singleton
-  Logging utility,
-  Configuration management,
-  Thread pools,
-  Caching,
-  Database connections.
+    Logging utility
+    Configuration management
+    Thread pools
+    Caching
+    Database connections
 
  ## Note on Thread Safety
 This basic implementation is not thread-safe. In multithreaded environments, use synchronized blocks or enums to prevent multiple instances.
 
    ## Author
-  Your Name: Sirimavilla Kaushik,
-  Date: 17-06-2025,
-  Language Used: Java.
+    Your Name: Sirimavilla Kaushik,
+    Date: 17-06-2025,
+    Language Used: Java.
 

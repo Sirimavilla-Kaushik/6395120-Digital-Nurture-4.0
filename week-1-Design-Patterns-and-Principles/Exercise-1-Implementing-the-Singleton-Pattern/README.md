@@ -3,10 +3,10 @@
   You need to ensure that a logging utility class in your application has only one instance throughout the application lifecycle to ensure consistent logging.
 
    ##  Project Structure
-  /week-1-Design-Patterns-and-Principles
-    └── Exercise-1-Implementing-the-Singleton-Pattern/
-        ├── Logger.java 
-        └── SingletonTest.java 
+    /week-1-Design-Patterns-and-Principles
+        └── Exercise-1-Implementing-the-Singleton-Pattern/
+             ├── Logger.java 
+             └── SingletonTest.java 
     
    ##  How to Compile and Run
   javac singleton/*.java

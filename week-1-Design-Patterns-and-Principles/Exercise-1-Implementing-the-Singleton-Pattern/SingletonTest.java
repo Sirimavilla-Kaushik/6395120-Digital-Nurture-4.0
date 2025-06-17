@@ -8,7 +8,7 @@ public class SingletonTest {
         if (logger1 == logger2) {
             System.out.println("Created two logger instances are same then  Singleton works!");
         } else {
-            System.out.println("Created two logger instances areDifferent then Singleton failed.");
+            System.out.println("Created two logger instances are different then Singleton failed.");
         }
     }
 }

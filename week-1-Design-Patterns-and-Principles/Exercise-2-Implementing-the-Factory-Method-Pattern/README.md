@@ -37,7 +37,7 @@
 
          Each concrete factory encapsulates the logic for creating its respective document type.
 
-        ### Test Class: `FactoryMethodTest`
+### Test Class: `FactoryMethodTest`
         Demonstrates the use of different factories to create and open different types of documents.
 
  ## How to Run

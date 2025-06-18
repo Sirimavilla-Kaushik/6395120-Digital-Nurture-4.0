@@ -5,16 +5,17 @@
 
 ##  Project Structure
 
-     FactoryMethodPatternExample/
-          ├── Document.java
-          ├── WordDocument.java
-          ├── PdfDocument.java
-          ├── ExcelDocument.java
-          ├── DocumentFactory.java
-          ├── WordDocumentFactory.java
-          ├── PdfDocumentFactory.java
-          ├── ExcelDocumentFactory.java
-          └── FactoryMethodTest.java
+     /week-1-Design-Patterns-and-Principles
+        └──Exercise-2-Implementing-the-Factory-Method-Pattern
+               ├── Document.java
+               ├── WordDocument.java
+               ├── PdfDocument.java
+               ├── ExcelDocument.java
+               ├── DocumentFactory.java
+               ├── WordDocumentFactory.java
+               ├── PdfDocumentFactory.java
+               ├── ExcelDocumentFactory.java
+               └── FactoryMethodTest.java
 
 ## Design Overview
 ### Interface: `Document`

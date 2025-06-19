@@ -1,30 +1,32 @@
 # E-commerce Platform Search Function
 
 ## Scenario
-    You are working on the search functionality of an e-commerce platform. The search must be optimized for fast performance using appropriate search algorithms.
+    You are working on the search functionality of an e-commerce platform. 
+    The search must be optimized for fast performance using appropriate search algorithms.
 
 ## 1. Understanding Asymptotic Notation
   ### What is Big O Notation?
-           Big O Notation is used to describe how the performance of an algorithm scales with input size n. It helps compare algorithms and determine which is most efficient for large datasets.
+           Big O Notation is used to describe how the performance of an algorithm scales with input size n. 
+           It helps compare algorithms and determine which is most efficient for large datasets.
 
   ### Time Complexities for Search Algorithms
-     Algorithm	     Best Case	     Average Case	      Worst Case
+     Algorithm	       Best Case	    Average Case	      Worst Case
      Linear Search	   O(1)	            O(n)	              O(n)
      Binary Search	   O(1)	            O(log n)	          O(log n)
 
     Linear Search: Scans each item one by one.
-
     Binary Search: Works only on sorted data, divides the array in half each time — much faster for large data.
 
 ## 2. Setup
     'Product.java' Class
 ## 3. Implementation
-       'searchAlgorithms.java'-Contains search algorithms
-       'searchApp.java'-Main application with user input
+       'searchAlgorithms.java' - Contains search algorithms
+       
+       'searchApp.java' - Main application with user input
 
 ## 4. Analysis
       Time Complexity Comparison
-            Algorithm	         Time Complexity
+            Algorithm	            Time Complexity
             Linear Search	         O(n)
             Binary Search	         O(log n)
 

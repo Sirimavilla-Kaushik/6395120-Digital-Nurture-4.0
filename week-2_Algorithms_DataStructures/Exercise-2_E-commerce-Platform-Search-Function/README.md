@@ -12,7 +12,7 @@
   ### Time Complexities for Search Algorithms
        Algorithm	      Best Case	     Average Case	       Worst Case
      Linear Search	       O(1)	           O(n)	                 O(n)
-     Binary Search	       O(1)	           O(log n)	             O(log n)
+     Binary Search	       O(1)	           O(log n)	            O(log n)
 
     Linear Search: Scans each item one by one.
     Binary Search: Works only on sorted data, divides the array in half each time — much faster for large data.
@@ -26,7 +26,7 @@
 
 ## 4. Analysis
       Time Complexity Comparison
-            Algorithm	            Time Complexity
+            Algorithm	           Time Complexity
             Linear Search	           O(n)
             Binary Search	           O(log n)
 

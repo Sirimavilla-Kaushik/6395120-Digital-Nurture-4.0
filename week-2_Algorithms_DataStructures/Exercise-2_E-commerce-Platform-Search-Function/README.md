@@ -6,13 +6,13 @@
 
 ## 1. Understanding Asymptotic Notation
   ### What is Big O Notation?
-           Big O Notation is used to describe how the performance of an algorithm scales with input size n. 
-           It helps compare algorithms and determine which is most efficient for large datasets.
+     Big O Notation is used to describe how the performance of an algorithm scales with input size n. 
+     It helps compare algorithms and determine which is most efficient for large datasets.
 
   ### Time Complexities for Search Algorithms
-     Algorithm	       Best Case	    Average Case	      Worst Case
-     Linear Search	   O(1)	            O(n)	              O(n)
-     Binary Search	   O(1)	            O(log n)	          O(log n)
+       Algorithm	      Best Case	     Average Case	      Worst Case
+     Linear Search	       O(1)	          O(n)	              O(n)
+     Binary Search	       O(1)	          O(log n)	          O(log n)
 
     Linear Search: Scans each item one by one.
     Binary Search: Works only on sorted data, divides the array in half each time — much faster for large data.

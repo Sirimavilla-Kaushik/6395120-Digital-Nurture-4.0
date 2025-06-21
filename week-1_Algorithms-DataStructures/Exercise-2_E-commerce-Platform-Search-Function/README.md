@@ -30,6 +30,14 @@
             Linear Search	           O(n)
             Binary Search	           O(log n)
 
+
+  ### Project Structure
+     week-1_Algorithms-DataStructures
+        └──Exercise-2_E-commerce-Platform-Search-Function
+                ├── Product.java    
+                ├── searchAlgorithms.java               
+                ├── searchApp.java  
+
  ## Which is Better?
      Use linear search for small or unsorted datasets.
      Use binary search for large, sorted datasets to achieve faster results.

@@ -28,10 +28,9 @@
                 ├── RecursiveForecaster.java  
 
   ### How to Compile and Run
-     Save File as: FinancialForecast.java
      Open terminal/command prompt and navigate to the file directory
      Compile:
-     javac FinancialForecast.java
+     javac *.java
      Run:
      java FinancialForecast
 

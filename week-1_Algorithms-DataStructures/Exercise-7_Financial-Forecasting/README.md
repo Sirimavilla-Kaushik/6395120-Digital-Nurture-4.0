@@ -20,6 +20,13 @@
     Time Complexity: O(n)
     Space Complexity: O(n)
 
+  ### Project Structure
+     week-1_Algorithms-DataStructures
+        └──Exercise-7_Financial-Forecasting
+                ├── FinancialForecastApp.java    
+                ├── Forecaster.java               
+                ├── RecursiveForecaster.java  
+
   ### How to Compile and Run
      Save File as: FinancialForecast.java
      Open terminal/command prompt and navigate to the file directory

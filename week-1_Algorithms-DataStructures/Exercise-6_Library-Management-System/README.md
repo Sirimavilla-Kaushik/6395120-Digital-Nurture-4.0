@@ -19,7 +19,7 @@
 
 ## Analysis
             Algorithm	          Time Complexity	          When to Use
-           Linear Search	           O(n)               	Small, unsorted datasets or rare searches
+           Linear Search	           O(n)                 	Small, unsorted datasets or rare searches
            Binary Search	           O(log n)	           Large, sorted datasets with frequent search operations
              
 ## Project Structure

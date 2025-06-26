@@ -16,7 +16,7 @@
 
   ###  1. Interest Rate Adjustment for Senior Citizens
 
-        **Goal**: Customers aged above 60 should receive a 1% reduction on their current loan interest rate.
+ **Goal**: Customers aged above 60 should receive a 1% reduction on their current loan interest rate.
 
         **Why it matters**: This supports financial inclusivity and demonstrates how banks can implement age-based reward systems at the data layer.
 

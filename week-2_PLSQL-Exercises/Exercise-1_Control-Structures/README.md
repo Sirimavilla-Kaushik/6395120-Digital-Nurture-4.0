@@ -5,12 +5,12 @@
       recognizing VIP customers, and issuing timely loan due date reminders.
 
 ## Project Summary
-     This project simulates three such scenarios using:
+   This project simulates three such scenarios using:
 
-         - Relational database design
-         - Control structures (`FOR` loops, `IF` conditions)
-         - Transactional updates
-         - Dynamic message generation using `DBMS_OUTPUT`
+   - Relational database design
+   - Control structures (`FOR` loops, `IF` conditions)
+   - Transactional updates
+   - Dynamic message generation using `DBMS_OUTPUT`
 
 ##  Key Functionalities
 
@@ -39,8 +39,8 @@
 
   ### Tables Used
 
-     - `customers`: Holds personal details, account balances, age, and VIP status.
-     - `loans`: Stores customer-linked loans, interest rates, and repayment due dates.
+   - `customers`: Holds personal details, account balances, age, and VIP status.
+   - `loans`: Stores customer-linked loans, interest rates, and repayment due dates.
 
   ### Logic Design
 
@@ -64,7 +64,7 @@
 ## Technologies Used
 
    - **Oracle SQL / PL/SQL**
-   - - **Oracle Live SQL Platform** *(compatible with SQL Developer and other Oracle tools)*
+   - **Oracle Live SQL Platform** *(compatible with SQL Developer and other Oracle tools)*
 
 ## Author
     Name: Sirimavilla Kaushik

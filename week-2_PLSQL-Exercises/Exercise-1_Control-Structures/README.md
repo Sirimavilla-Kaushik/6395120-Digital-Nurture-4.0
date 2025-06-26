@@ -16,23 +16,23 @@
 
   ###  1. Interest Rate Adjustment for Senior Citizens
 
- **Goal**: Customers aged above 60 should receive a 1% reduction on their current loan interest rate.
+   **Goal**: Customers aged above 60 should receive a 1% reduction on their current loan interest rate.
 
-        **Why it matters**: This supports financial inclusivity and demonstrates how banks can implement age-based reward systems at the data layer.
+   **Why it matters**: This supports financial inclusivity and demonstrates how banks can implement age-based reward systems at the data layer.
 
 
   ### 2. VIP Status Assignment Based on Balance
 
-        **Goal**: Promote customers with balances over $10,000 to VIP status.
+   **Goal**: Promote customers with balances over $10,000 to VIP status.
 
-        **Why it matters**: Recognizing and rewarding loyal or high-value customers builds trust and loyalty.   
+   **Why it matters**: Recognizing and rewarding loyal or high-value customers builds trust and loyalty.   
                              This logic simulates how VIP flagging could be automated in real banking CRMs.
 
   ###  3. Loan Repayment Reminder System
 
-        **Goal**: Automatically detect loans due within the next 30 days and notify customers accordingly.
+   **Goal**: Automatically detect loans due within the next 30 days and notify customers accordingly.
 
-        **Why it matters**: Timely reminders reduce defaults, improve repayments, and strengthen the bank-customer relationship. 
+   **Why it matters**: Timely reminders reduce defaults, improve repayments, and strengthen the bank-customer relationship. 
                             This use-case models real-time alert systems used in modern core banking platforms.
 
 ##  System Design Overview
@@ -63,8 +63,8 @@
 
 ## Technologies Used
 
-     - **Oracle SQL / PL/SQL**
-     - **Oracle Live SQL Platform** *(compatible with SQL Developer and other Oracle tools)*
+   - **Oracle SQL / PL/SQL**
+   - - **Oracle Live SQL Platform** *(compatible with SQL Developer and other Oracle tools)*
 
 ## Author
     Name: Sirimavilla Kaushik

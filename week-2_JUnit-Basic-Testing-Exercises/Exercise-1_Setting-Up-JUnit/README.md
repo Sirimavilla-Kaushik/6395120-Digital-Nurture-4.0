@@ -34,14 +34,14 @@
                       └── Exercise-1_Setting-Up-JUnit/
                               └── junitdemo/
 
-  Inside `junitdemo`, the Maven-standard structure is followed:
+    Inside `junitdemo`, the Maven-standard structure is followed:
       - `src/main/java`: for application source code.
       - `src/test/java`: for unit test classes.
       - `pom.xml`: Maven configuration file defining project structure, dependencies, and plugins.
 
    ## Getting Started
    
-   To run this project on a local machine:
+    To run this project on a local machine:
       1. **Ensure Java and Maven are installed** and environment variables are configured.
       2. Open a terminal and navigate to the project directory:
                  `cd path/to/junitdemo`
@@ -50,9 +50,9 @@
 
    ## Key Benefits
    
-  `Repeatability:` The Maven-based test execution is consistent across all environments.
-  `Automation-ready:` Easily integrates with CI/CD pipelines for automated builds and tests.
-  `Scalability:` The project setup supports modular growth for additional features and tests.
+    `Repeatability:` The Maven-based test execution is consistent across all environments.
+    `Automation-ready:` Easily integrates with CI/CD pipelines for automated builds and tests.
+    `Scalability:` The project setup supports modular growth for additional features and tests.
 
    ## Author
      Name: Sirimavilla Kaushik

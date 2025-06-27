@@ -14,7 +14,7 @@
    - Running tests with a simple Maven command.
 
 
-   ## 🛠 Technologies Used
+   ## Technologies Used
    
   - **Java**: JDK 8 or higher.
    
@@ -40,16 +40,16 @@
 
     ## How to Run This Project
 
-    1. **Open your terminal or IDE**.
+    1.  **Open your terminal or IDE**.
 
     2. Navigate to the root of the project folder:
 
          cd `CalculatorJUnitProject`
 
-    3.Run the tests using Maven:
-
-         `mvn test`
-    ## Output:
+   3.Run the tests using Maven:
+       `mvn test`
+       
+  ## Output:
 
    1.JUnit will execute all test cases in src/test/java.
 
@@ -58,11 +58,11 @@
   ## Testing Approach: AAA Pattern
    Each test method is structured in 3 clear steps:
 
-  1.Arrange: Prepare the input data and test objects
+  1.`Arrange:` Prepare the input data and test objects
 
-  2.Act: Call the method under test
+  2.`Act:` Call the method under test
 
-  3.Assert: Verify the result using assertions
+  3.`Assert:` Verify the result using assertions
 
   Using @Before and @After ensures test isolation by setting up fresh test conditions and cleaning up after each test execution.
 

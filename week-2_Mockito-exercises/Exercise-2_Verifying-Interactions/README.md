@@ -5,8 +5,8 @@
    
    1.This project focuses on **interaction-based unit testing** using **Mockito** and **JUnit 5**, forming part of Week 2's Java testing module. 
    
-   2.The objective is to ensure that service-layer logic interacts with its dependencies as expected — a crucial concept in writing reliable, maintainable, and     
-     decoupled unit tests.
+   2.The objective is to ensure that service-layer logic interacts with its dependencies as expected — a crucial concept in writing reliable, 
+   maintainable, and decoupled unit tests.
 
 
    ## Objective
@@ -54,10 +54,10 @@
 
    A proper `pom.xml` was set up to include:
 
-   - Dependencies for `junit-jupiter` (JUnit 5) and `mockito-core`
-   - Configuration for `maven-surefire-plugin` to:
-   - Enable JUnit 5
-   - Suppress runtime JVM warnings using `argLine` (e.g., `-Xshare:off`, `-Djdk.instrument.traceUsage=disable`)
+   1.Dependencies for `junit-jupiter` (JUnit 5) and `mockito-core`
+   2.Configuration for `maven-surefire-plugin` to:
+        - Enable JUnit 5
+        - Suppress runtime JVM warnings using `argLine` (e.g., `-Xshare:off`, `-Djdk.instrument.traceUsage=disable`)
 
 
   ##  Testing Strategy

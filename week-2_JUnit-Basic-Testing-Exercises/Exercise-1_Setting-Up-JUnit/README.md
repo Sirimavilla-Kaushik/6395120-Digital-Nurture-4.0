@@ -33,6 +33,7 @@
              └── week-2_JUnit-Basic-Testing-Exercises/
                       └── Exercise-1_Setting-Up-JUnit/
                              └── junitdemo/
+                             
   Inside `junitdemo`, the Maven-standard structure is followed:
   
   - `src/main/java`: for application source code.
@@ -44,15 +45,23 @@
    ## Getting Started
    
   To run this project on a local machine:
-      1. **Ensure Java and Maven are installed** and environment variables are configured.
-      2. Open a terminal and navigate to the project directory:
+  
+   1. **Ensure Java and Maven are installed** and environment variables are configured.
+      
+   2. Open a terminal and navigate to the project directory:
+      
                  `cd path/to/junitdemo`
-      3. test the project using Maven:
+                 
+   3. test the project using Maven:
+      
                   `mvn test`
 
    ## Key Benefits 
+   
    1.`Repeatability:` The Maven-based test execution is consistent across all environments.
+   
    2.`Automation-ready:` Easily integrates with CI/CD pipelines for automated builds and tests.
+   
    3.`Scalability:` The project setup supports modular growth for additional features and tests.
 
    ## Author

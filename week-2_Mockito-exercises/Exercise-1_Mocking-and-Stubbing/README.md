@@ -15,7 +15,7 @@
    - Define **stubbed responses** to simulate various API return values.
    - Use **assertions** to verify that the service behaves correctly based on those mock responses.
 
-     This ensures tests are fast, stable, and focused on the logic being tested — not external factors.
+  3.This ensures tests are fast, stable, and focused on the logic being tested — not external factors.
 
 
   ## Technologies Used

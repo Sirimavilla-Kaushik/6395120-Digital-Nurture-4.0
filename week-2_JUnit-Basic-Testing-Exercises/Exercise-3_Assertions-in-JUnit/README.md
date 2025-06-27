@@ -2,7 +2,9 @@
 
   ## Project Overview
    1.The goal of this project is to practice unit testing using various assertion methods provided by JUnit 5. 
-   2.These assertions help verify the correctness of code by checking expected outcomes, object states, and logical conditions. 
+   
+   2.These assertions help verify the correctness of code by checking expected outcomes, object states, and logical conditions.
+   
    3.The entire test class is managed using Maven, making it easy to build and run tests consistently.
 
    ## Objectives
@@ -40,13 +42,16 @@
   ## How to Run
    ### Prerequisites
    1.Java 8 or newer installed (java -version).
+   
    2.Maven installed (mvn -v).
+   
    3.Your folder structure must include `pom.xml` and the proper `src/test/java/... path`.
    
    ### Run with Maven
-   Open terminal in your project root (where pom.xml is).
-      Run the following:
-             `mvn test`.
+   1.Open terminal in your project root (where pom.xml is).
+   
+   2.Run the following:
+          `mvn test`.
 
   ## Author
      Name: Sirimavilla Kaushik

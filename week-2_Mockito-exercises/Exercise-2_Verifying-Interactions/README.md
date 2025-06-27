@@ -6,7 +6,7 @@
    1.This project focuses on **interaction-based unit testing** using **Mockito** and **JUnit 5**, forming part of Week 2's Java testing module. 
    
    2.The objective is to ensure that service-layer logic interacts with its dependencies as expected — a crucial concept in writing reliable, 
-   maintainable, and decoupled unit tests.
+      maintainable, and decoupled unit tests.
 
 
    ## Objective
@@ -60,7 +60,7 @@
    
    - Enable JUnit 5
         
-     - Suppress runtime JVM warnings using `argLine` (e.g., `-Xshare:off`, `-Djdk.instrument.traceUsage=disable`)
+   - Suppress runtime JVM warnings using `argLine` (e.g., `-Xshare:off`, `-Djdk.instrument.traceUsage=disable`)
 
 
   ##  Testing Strategy

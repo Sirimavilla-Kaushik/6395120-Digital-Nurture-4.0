@@ -44,22 +44,22 @@
 
   ### Logic Design
 
-     | Component           | Description                                                                     |
-     |-------------------- |---------------------------------------------------------------------------------|
-     | PL/SQL Control Flow | Used to iterate over customers and loans using `FOR` loops                      |
-     | Conditional Logic   | Decision-making implemented using `IF` statements                               |
-     | Joins               | Used to correlate customer profiles with loan records                           |
-     | Transaction Control | Data updates are wrapped in transactions (`COMMIT`) to maintain consistency     |
-     | Output Logging      | Real-time result messages shown using `DBMS_OUTPUT.PUT_LINE`                    |
+   | Component           | Description                                                                     |
+   |-------------------- |---------------------------------------------------------------------------------|
+   | PL/SQL Control Flow | Used to iterate over customers and loans using `FOR` loops                      |
+   | Conditional Logic   | Decision-making implemented using `IF` statements                               |
+   | Joins               | Used to correlate customer profiles with loan records                           |
+   | Transaction Control | Data updates are wrapped in transactions (`COMMIT`) to maintain consistency     |
+   | Output Logging      | Real-time result messages shown using `DBMS_OUTPUT.PUT_LINE`                    |
 
 ##  File Structure
 
-    | File Name                           | Purpose                                                                 |
-    |-------------------------------------|-------------------------------------------------------------------------|
-    | `create_tables_and_sample_data.sql` | Creates `customers` and `loans` tables and inserts test data            |
-    | `scenario1_discount.sql`            | Applies 1% interest discount for senior citizens (age > 60)             |
-    | `scenario2_vip.sql`                 | Promotes customers to VIP if their balance exceeds $10,000              |
-    | `scenario3_reminders.sql`           | Sends reminder messages for loans due in the next 30 days               |
+   | File Name                           | Purpose                                                                 |
+   |-------------------------------------|-------------------------------------------------------------------------|
+   | `create_tables_and_sample_data.sql` | Creates `customers` and `loans` tables and inserts test data            |
+   | `scenario1_discount.sql`            | Applies 1% interest discount for senior citizens (age > 60)             |
+   | `scenario2_vip.sql`                 | Promotes customers to VIP if their balance exceeds $10,000              |
+   | `scenario3_reminders.sql`           | Sends reminder messages for loans due in the next 30 days               |
 
 ## Technologies Used
 

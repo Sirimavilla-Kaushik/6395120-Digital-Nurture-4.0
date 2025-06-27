@@ -38,10 +38,15 @@
      ├── src/
      │    ├── main/
      │    │ └── java/
-     │    │ └── com/example/ ← Contains service and external API interface
-     │    └── test/
-     │    └── java/
-     │    └── com/example/ ← Contains unit tests using Mockito and JUnit
+     │    │   └── com/example/← Contains service and external API interface
+     │    |        ├── ExternalApi.java
+     │    |        |── MyService.java
+     │    |
+     |    └── test/
+     │      └── java/
+     │       └── com/example/ ← Contains unit tests using Mockito and JUnit
+     |             └── MyServiceTest.java
+     |
      │
      ├── pom.xml ← Maven configuration with dependencies
 

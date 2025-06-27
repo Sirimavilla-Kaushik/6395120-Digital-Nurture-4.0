@@ -54,10 +54,13 @@
 
    A proper `pom.xml` was set up to include:
 
-   1.Dependencies for `junit-jupiter` (JUnit 5) and `mockito-core`
+   1.Dependencies for `junit-jupiter` (JUnit 5) and `mockito-core`.
+   
    2.Configuration for `maven-surefire-plugin` to:
-        - Enable JUnit 5
-        - Suppress runtime JVM warnings using `argLine` (e.g., `-Xshare:off`, `-Djdk.instrument.traceUsage=disable`)
+   
+   - Enable JUnit 5
+        
+     - Suppress runtime JVM warnings using `argLine` (e.g., `-Xshare:off`, `-Djdk.instrument.traceUsage=disable`)
 
 
   ##  Testing Strategy

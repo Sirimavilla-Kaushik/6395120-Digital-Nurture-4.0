@@ -34,9 +34,12 @@
                       └── Exercise-1_Setting-Up-JUnit/
                              └── junitdemo/
   Inside `junitdemo`, the Maven-standard structure is followed:
-      - `src/main/java`: for application source code.
-      - `src/test/java`: for unit test classes.
-      - `pom.xml`: Maven configuration file defining project structure, dependencies, and plugins.
+  
+  - `src/main/java`: for application source code.
+      
+  - `src/test/java`: for unit test classes.
+    
+  - `pom.xml`: Maven configuration file defining project structure, dependencies, and plugins.
 
    ## Getting Started
    

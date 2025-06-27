@@ -40,20 +40,19 @@
 
     ## How to Run This Project
 
-    1.  **Open your terminal or IDE**.
+    1.**Open your terminal or IDE**.
 
-    2. Navigate to the root of the project folder:
+    2.Navigate to the root of the project folder:
 
          cd `CalculatorJUnitProject`
 
-   3.Run the tests using Maven:
+    3.Run the tests using Maven:
        `mvn test`
        
   ## Output:
+   1. JUnit will execute all test cases in src/test/java.
 
-   1.JUnit will execute all test cases in src/test/java.
-
-   2.You will see messages printed from setup and teardown methods in the console.
+   2. You will see messages printed from setup and teardown methods in the console.
 
   ## Testing Approach: AAA Pattern
    Each test method is structured in 3 clear steps:
@@ -64,7 +63,7 @@
 
   3.`Assert:` Verify the result using assertions
 
-  Using @Before and @After ensures test isolation by setting up fresh test conditions and cleaning up after each test execution.
+  Using `@Before` and `@After` ensures test isolation by setting up fresh test conditions and cleaning up after each test execution.
 
  ## Author
     Name: Sirimavilla Kaushik

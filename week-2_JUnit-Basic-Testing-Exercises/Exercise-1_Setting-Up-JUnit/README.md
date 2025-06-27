@@ -28,17 +28,16 @@
 
 
    ## Folder Structure & Location
-
-   This exercise is located at:
-       6395120-Digital-Nurture-4.0/
+     This exercise is located at:
+          6395120-Digital-Nurture-4.0/
              └── week-2_JUnit-Basic-Testing-Exercises/
                       └── Exercise-1_Setting-Up-JUnit/
                               └── junitdemo/
 
-   Inside `junitdemo`, the Maven-standard structure is followed:
-      - `src/main/java`: for application source code
-      - `src/test/java`: for unit test classes
-      - `pom.xml`: Maven configuration file defining project structure, dependencies, and plugins
+  Inside `junitdemo`, the Maven-standard structure is followed:
+      - `src/main/java`: for application source code.
+      - `src/test/java`: for unit test classes.
+      - `pom.xml`: Maven configuration file defining project structure, dependencies, and plugins.
 
    ## Getting Started
    

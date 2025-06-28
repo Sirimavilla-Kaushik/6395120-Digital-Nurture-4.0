@@ -2,7 +2,8 @@
 
    ## Project Overview
 
-   1.This project demonstrates the application of **parameterized logging** in Java using the **SLF4J API** and **Logback** as the underlying logging framework. 
+   1.This project demonstrates the application of **parameterized logging** in Java using the **SLF4J API** and **Logback** 
+      as the underlying logging framework. 
    
    2.Logging is an essential part of software development, aiding in debugging, monitoring, and maintaining application behavior. 
    
@@ -69,6 +70,7 @@
        `mvn clean compile`
    
    3. **Execute**
+      
        `mvn exec:java -Dexec.mainClass=com.example.ParameterizedLoggingExample`
 
 

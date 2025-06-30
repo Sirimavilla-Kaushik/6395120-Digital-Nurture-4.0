@@ -1,0 +1,4 @@
+10:43:19.412 [com.example.Applogger.main()] DEBUG com.example.Applogger - This is a DEBUG level message
+10:43:19.414 [com.example.Applogger.main()] INFO  com.example.Applogger - This is an INFO level message
+10:43:19.415 [com.example.Applogger.main()] WARN  com.example.Applogger - This is a WARN level message
+10:43:19.416 [com.example.Applogger.main()] ERROR com.example.Applogger - This is an ERROR level message

@@ -21,7 +21,7 @@
 
    | Technology     | Purpose                                      |
    |----------------|----------------------------------------------|
-   | Java 11        | Core programming language                    |
+   | Java           | Core programming language                    |
    | Maven          | Project management and dependency handling   |
    | SLF4J API      | Logging façade for abstraction               |
    | Logback Classic| Logging implementation for SLF4J             |

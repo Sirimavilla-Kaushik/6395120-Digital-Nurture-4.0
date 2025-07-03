@@ -23,7 +23,7 @@
    | Technology    | Purpose                                    |
    |---------------|--------------------------------------------|
    | Java 17       | Core programming language                  |
-   | JUnit 5       | Testing framework                          |
+   | JUnit         | Testing framework                          |
    | Mockito       | Mocking and interaction verification       |
    | Maven         | Build automation and dependency management |
    | Git & GitHub  | Version control and collaboration          |

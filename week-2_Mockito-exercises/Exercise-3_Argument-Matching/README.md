@@ -87,8 +87,11 @@
  -------------------------------------------------------
  T E S T S
 -------------------------------------------------------
+
 Running com.example.UserServiceTest
+
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
+
 BUILD SUCCESS
 
    ## Author

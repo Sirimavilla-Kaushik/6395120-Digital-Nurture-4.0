@@ -47,9 +47,9 @@
 
                 | Technology        | Role                                 |
                 |-------------------|--------------------------------------|
-                | Java 21           | Programming Language                 |
-                | JUnit 4           | Testing Framework                    |
-                | Mockito 5         | Mocking Framework for Behavior Tests |
+                | Java 17           | Programming Language                 |
+                | JUnit             | Testing Framework                    |
+                | Mockito           | Mocking Framework for Behavior Tests |
                 | Maven             | Build & Dependency Management Tool   |
 
 

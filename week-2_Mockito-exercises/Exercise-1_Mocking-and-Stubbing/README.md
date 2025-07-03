@@ -22,9 +22,9 @@
 
    | Tool / Technology | Purpose                              |
    |-------------------|--------------------------------------|
-   | Java              | Primary programming language         |
+   | Java 17           | Primary programming language         |
    | Maven             | Project and dependency management    |
-   | JUnit 5           | Unit testing framework               |
+   | JUnit             | Unit testing framework               |
    | Mockito           | Mocking and stubbing tool            |
    | VS Code           | IDE for Java development             |
 

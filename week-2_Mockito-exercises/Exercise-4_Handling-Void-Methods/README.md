@@ -39,7 +39,7 @@
 
    ### Key Mockito Functions Used:
 
-       | Function                     | Purpose                                                                 |
+       | Function                    | Purpose                                                                 |
        |-----------------------------|-------------------------------------------------------------------------|
        | `mock()`                    | Creates a mock of a dependency.                                         |
        | `doNothing().when()`        | Stubs a void method to prevent actual execution.                        |
@@ -110,7 +110,7 @@ Results :
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0
 
 
-    ## Author
+   ## Author
         Name: Sirimavilla Kaushik
         Date: 30-06-2025
         Language Used:JAVA and MAVEN

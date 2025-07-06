@@ -37,6 +37,27 @@
 
    ##  Project Structure
 
+
+
+                     orm-learn/
+                         ├── pom.xml
+                         ├── src/
+                              ├── main/
+                                    ├── java/
+                                    │     └── com/
+                                    │          └── cognizant/
+                                    │                  └── ormlearn/
+                                    │                        ├── OrmLearnApplication.java        
+                                    │                        ├── model/
+                                    │                        │      └── Country.java                
+                                    │                        ├── repository/
+                                    │                        │       └── CountryRepository.java      
+                                    │                        └── service/
+                                    │                               └── CountryService.java          
+                                    └── resources/
+                                            └── application.properties                      
+
+
    - `model/` – Contains the entity classes mapped to database tables.
 
    - `repository/` – Defines repository interfaces extending `JpaRepository`.

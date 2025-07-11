@@ -73,7 +73,7 @@
 
    For corporate proxy users, add:
 
-   `mvn clean install -Dhttp.proxyHost=proxy.cognizant.com -Dhttp.proxyPort=6050 -Dhttps.proxyHost=proxy.cognizant.com -Dhttps.proxyPort=6050 -                  Dhttp.proxyUser=123456`
+   `mvn clean install -Dhttp.proxyHost=proxy.cognizant.com -Dhttp.proxyPort=6050 -Dhttps.proxyHost=proxy.cognizant.com -Dhttps.proxyPort=6050 - Dhttp.proxyUser=123456`
 
 
    ### 3. Run the Application
@@ -93,7 +93,7 @@
 
 
 
-    ## Author
+   ## Author
        Name: Sirimavilla Kaushik
        Date: 11-07-2025
        Language Used:JAVA,SPRING BOOT,MAVEN

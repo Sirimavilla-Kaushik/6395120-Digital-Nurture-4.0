@@ -1,0 +1,4 @@
+com\cognizant\springsecurity\SpringSecurityApplication.class
+com\cognizant\springsecurity\util\JwtUtil.class
+com\cognizant\springsecurity\config\SecurityConfig.class
+com\cognizant\springsecurity\controller\AuthenticationController.class

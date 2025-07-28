@@ -47,7 +47,7 @@
 
   4. Create a `Components` folder inside `src/` and add:
 
-     -`Home.js`
+     - `Home.js`
 
      - `About.js`
 

@@ -18,8 +18,8 @@ function App() {
     alert("Hello! Member1");
   };
 
-  const sayWelcome = (msg) => {
-    alert(msg);
+  const sayWelcome = () => {
+    alert("Welcome");
   };
 
   const handlePress = () => {
